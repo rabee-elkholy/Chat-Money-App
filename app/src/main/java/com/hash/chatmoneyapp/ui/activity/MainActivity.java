@@ -1,8 +1,10 @@
-package com.hash.chatmoneyapp;
+package com.hash.chatmoneyapp.ui.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.hash.chatmoneyapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
